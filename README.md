@@ -1,6 +1,8 @@
 # Getting Started
 
-Clone the git repo into a folder
+Clone the git repo into a folder.
+
+Navigate to folder then run npm install to install the required npm packages
 
 ## Available Scripts
 
